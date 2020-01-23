@@ -1,0 +1,9 @@
+serial.c:14:6:store_char	12	static
+serial.c:21:6:USART1_IRQHandler	0	static
+serial.c:28:6:serial_begin	48	static
+serial.c:99:9:serial_available	0	static
+serial.c:102:9:serial_read	8	static
+serial.c:135:6:serial_putchar	0	static
+serial.c:113:6:serial_print	8	static
+serial.c:119:6:serial_println	8	static
+serial.c:127:6:serial_print_itoa	16	static

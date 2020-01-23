@@ -1,0 +1,17 @@
+n3310.c:114:13:LcdSend	16	static
+n3310.c:58:6:LcdClear	8	static
+n3310.c:69:6:LcdUpdate	24	static
+n3310.c:17:6:LcdInit	24	static
+n3310.c:133:6:LcdContrast	8	static
+n3310.c:141:15:LcdGotoXYFont	0	static
+n3310.c:151:15:LcdChr	20	static
+n3310.c:305:15:LcdStr	16	static
+n3310.c:320:15:LcdFStr	16	static
+n3310.c:334:15:LcdPixel	8	static
+n3310.c:381:15:LcdLine	48	static
+n3310.c:464:15:LcdCircle	56	static
+n3310.c:492:15:LcdRect	32	static
+n3310.c:520:6:LcdImage	8	static
+n3310.c:530:6:LcdWriteToCache	0	static
+n3310.c:535:6:LcdIvertLine	0	static
+n3310.c:547:6:LcdIvertLineFragment	8	static

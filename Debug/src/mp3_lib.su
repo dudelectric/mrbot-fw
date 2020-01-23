@@ -1,0 +1,8 @@
+mp3_lib.c:33:6:MP3_init	40	static
+mp3_lib.c:106:6:MP3_clear_RXBuffer	0	static
+mp3_lib.c:117:6:USART3_IRQHandler	8	static
+mp3_lib.c:143:10:MP3_checksum	0	static
+mp3_lib.c:154:6:MP3_send_cmd	16	static
+mp3_lib.c:181:6:MP3_say	40	static
+mp3_lib.c:246:6:MP3_queue_processing	16	static
+mp3_lib.c:258:6:MP3_set_folder	0	static
